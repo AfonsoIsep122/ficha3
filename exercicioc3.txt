@@ -1,5 +1,6 @@
-echo "Algoritmo: Subtração de dois números inteiros" > exercicioc3.txt
-echo "1. Solicitar Num1" >> exercicioc3.txt
-echo "2. Solicitar Num2" >> exercicioc3.txt
-echo "3. Calcular Subtracao = Num1 - Num2" >> exercicioc3.txt
-echo "4. Mostrar Subtracao" >> exercicioc3.txt
+echo "Algoritmo: Subtração do maior pelo menor" > exercicioc3.txt
+echo "1. Solicitar NumA" >> exercicioc3.txt
+echo "2. Solicitar NumB" >> exercicioc3.txt
+echo "3. SE NumA > NumB ENTAO Subtracao = NumA - NumB" >> exercicioc3.txt
+echo "4. SENAO Subtracao = NumB - NumA" >> exercicioc3.txt
+echo "5. Mostrar Subtracao" >> exercicioc3.txt
