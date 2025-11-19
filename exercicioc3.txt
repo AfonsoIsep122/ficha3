@@ -1,5 +1,5 @@
-echo "Algoritmo: Soma de dois números inteiros" > exercicioc3.txt
+echo "Algoritmo: Subtração de dois números inteiros" > exercicioc3.txt
 echo "1. Solicitar Num1" >> exercicioc3.txt
 echo "2. Solicitar Num2" >> exercicioc3.txt
-echo "3. Calcular Soma = Num1 + Num2" >> exercicioc3.txt
-echo "4. Mostrar Soma" >> exercicioc3.txt
+echo "3. Calcular Subtracao = Num1 - Num2" >> exercicioc3.txt
+echo "4. Mostrar Subtracao" >> exercicioc3.txt
